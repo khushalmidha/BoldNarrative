@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "Blog" ALTER COLUMN "vote" SET DEFAULT 0,
+ALTER COLUMN "views" SET DEFAULT 0;
